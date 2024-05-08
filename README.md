@@ -10,20 +10,6 @@
 
 ![Nisat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisat-gg&show_icons=true&theme=transparent)
 
-## Projects 🚀
-
-### Project 1: [Project Name]
-
-- **Description**: [Brief description of the project]
-- **Technologies Used**: [List of technologies/tools/libraries/frameworks used]
-- **GitHub Repository**: [Link to the GitHub repository]
-
-### Project 2: [Project Name]
-
-- **Description**: [Brief description of the project]
-- **Technologies Used**: [List of technologies/tools/libraries/frameworks used]
-- **GitHub Repository**: [Link to the GitHub repository]
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
